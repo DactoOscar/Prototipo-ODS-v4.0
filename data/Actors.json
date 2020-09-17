@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"j1","characterIndex":0,"characterName":"j1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"j1","traits":[],"initialLevel":1,"maxLevel":99,"name":"mujer","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"22","characterIndex":0,"characterName":"2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"2","traits":[],"initialLevel":1,"maxLevel":99,"name":"hombre","nickname":"","note":"","profile":""}
+]
