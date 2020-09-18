@@ -1,19 +1,19 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Habitacion","order":9,"parentId":2,"scrollX":819,"scrollY":453},
-{"id":2,"expanded":true,"name":"Jardin","order":7,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Jardín","order":7,"parentId":7,"scrollX":819,"scrollY":453},
 {"id":3,"expanded":true,"name":"Villa GreenHill","order":1,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":4,"expanded":true,"name":"Sala","order":10,"parentId":1,"scrollX":819,"scrollY":453},
 {"id":5,"expanded":false,"name":"Pueblo","order":2,"parentId":3,"scrollX":819,"scrollY":453},
 {"id":6,"expanded":false,"name":"Casa del pueblo","order":3,"parentId":3,"scrollX":819,"scrollY":453},
 {"id":7,"expanded":true,"name":"Rio","order":4,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":8,"expanded":false,"name":"Templo flotante","order":6,"parentId":13,"scrollX":811,"scrollY":800},
-{"id":9,"expanded":true,"name":"Barrio chabolista","order":12,"parentId":11,"scrollX":1786.909090909091,"scrollY":988.3636363636364},
+{"id":9,"expanded":true,"name":"Barrio chabolista","order":12,"parentId":11,"scrollX":811,"scrollY":737},
 {"id":10,"expanded":false,"name":"JardinDestruido","order":8,"parentId":2,"scrollX":819,"scrollY":453},
 {"id":11,"expanded":true,"name":"Sopiletra","order":11,"parentId":0,"scrollX":811,"scrollY":507},
 {"id":12,"expanded":false,"name":"Sala de laboratorio","order":13,"parentId":9,"scrollX":811,"scrollY":507},
-{"id":13,"expanded":true,"name":"RioNuevo","order":5,"parentId":7,"scrollX":659,"scrollY":371},
-{"id":14,"expanded":true,"name":"parqueEolico","order":14,"parentId":0,"scrollX":811,"scrollY":607},
+{"id":13,"expanded":true,"name":"RioNuevo","order":5,"parentId":7,"scrollX":819,"scrollY":453},
+{"id":14,"expanded":true,"name":"parqueEolico","order":14,"parentId":0,"scrollX":811,"scrollY":747},
 {"id":15,"expanded":false,"name":"HidroElectrica","order":15,"parentId":14,"scrollX":819,"scrollY":453},
-{"id":16,"expanded":false,"name":"seleccionPJ","order":16,"parentId":0,"scrollX":1786.909090909091,"scrollY":988.3636363636364}
+{"id":16,"expanded":false,"name":"seleccionPJ","order":16,"parentId":0,"scrollX":819,"scrollY":453}
 ]
